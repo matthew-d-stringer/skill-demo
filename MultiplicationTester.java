@@ -5,6 +5,6 @@ import org.junit.Test;
 public class MultiplicationTester {
     @Test
     public void multiplyTester() {
-        assertEquals(1 * 3, Muliplication.multiply(1, 3));
+        assertEquals(1 * 3, Multiplication.multiply(1, 3));
     }
 }
